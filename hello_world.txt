@@ -1,0 +1,1 @@
+I'm learning about git and github through the Odin project and it is awesome
